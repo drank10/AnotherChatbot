@@ -6,7 +6,7 @@ It uses the F5 TTS engine and can handle responses in multiple emotions
 The LLM can be hosted using LM Studio or Ollama and supports current vision LLM models
 
 ## Features
-- **Multi-Agent Support:** Switch between different agents with unique personalities and styles.
+- **Multi-Agent Support:** Switch between different agents with unique personalities and styles. Note: Using multiple emotions requires the system prompt to be set to return the emotion tag. 
 - **Text-to-Speech Integration:** Generate audio responses from text using various TTS models.
 - **Speech-to-Text Integration:** Capture audio input using OpenAI Whisper.
 - **Image Generation:** Create visual representations of the chatbot in different styles based on prompt.
