@@ -12,9 +12,10 @@ This is an basic AI chatbot interface designed to handle various text-to-speech 
 
 ## Requirements
 - Python 3.x
-- Tkinter
+- LM Studio or Ollama hosting the LLM
+- Stable Diffusion \ LoRA checkpoints (e.g. https://civitai.com/) 
 - PyTorch
-- F5 TTS (https://github.com/SWivid/F5-TTS/tree/main/src/f5_tts)
+- F5 TTS (https://github.com/SWivid/F5-TTS/tree/main/src/f5_tts) and your own audio files. The examples provided are just AI created. 
 - Other dependencies listed in `requirements.txt`
 
 ## Installation
