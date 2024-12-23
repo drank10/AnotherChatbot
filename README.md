@@ -1,5 +1,7 @@
 # AI Chatbot Interface
 
+<img src="AnotherChatbot.jpg">
+
 ## Overview
 This is an basic AI chatbot interface designed to handle various text-to-speech (TTS) functionalities and image generation based on user interactions.
 
