@@ -37,7 +37,7 @@ This is an basic AI chatbot interface designed to handle various text-to-speech 
 
 ## Usage
 
-1. **Select an Agent:** Choose or create a new agent from the interface. Agents can either be a single emotion or multiple. Please see F5 TTS documention for more details. 
+1. **Select an Agent:** Choose or create a new agent from the interface. Agents can either be a single emotion or multiple. Please see F5 TTS documention for more details. When creating an agent, you will be prompted for their image file and can select their TTS voice which can then be saved for future use.  
 2. **Start Chatting:** The agent will enter a listening mode.
 3. **Pause/Unpause:** Use the 'p' key to pause/unpause the conversation.
 4. **Image Generation:** Download a Stable Diffusion checkpoint and LoRA of your choice. Use the 'i' key to enable/disable image generation. 
