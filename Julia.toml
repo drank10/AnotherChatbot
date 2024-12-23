@@ -1,7 +1,7 @@
 # F5-TTS | E2-TTS
 model = "F5-TTS"
 ref_audio = "Julia.wav"
-# If an empty "", transcribes the reference audio automatically.
+# If an empty "", transcribes the reference audio automatically. The example audio files provided must be updated to match
 ref_text = "This is the text in the main Julia default voice wav file"
 gen_text = ""
 # File with text to generate. Ignores the text above.
