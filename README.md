@@ -9,7 +9,7 @@ The LLM can be hosted using LM Studio or Ollama and supports current vision LLM 
 - **Multi-Agent Support:** Switch between different agents with unique personalities and styles.
 - **Text-to-Speech Integration:** Generate audio responses from text using various TTS models.
 - **Speech-to-Text Integration:** Capture audio input using OpenAI Whisper.
-- **Image Generation:** Create visual representations of the chatbot in different styles based on its responses.
+- **Image Generation:** Create visual representations of the chatbot in different styles based on prompt.
 - **User-Friendly Interface:** A graphical user interface (GUI) for easy interaction.
 
 ## Requirements
