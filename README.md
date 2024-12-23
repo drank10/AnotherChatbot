@@ -15,6 +15,7 @@ The LLM can be hosted using LM Studio or Ollama and supports current vision LLM 
 - Python 3.x
 - Tkinter
 - PyTorch
+- F5 TTS (https://github.com/SWivid/F5-TTS/tree/main/src/f5_tts)
 - Other dependencies listed in `requirements.txt`
 
 ## Installation
