@@ -1,9 +1,7 @@
 <img src="AnotherChatbot.jpg">
 
 ## Overview
-This is an basic AI chatbot interface designed to handle various text-to-speech (TTS) functionalities and image generation based on user interactions.
-It uses the F5 TTS engine and can handle responses in multiple emotions 
-The LLM can be hosted using LM Studio or Ollama and supports current vision LLM models
+This is an basic AI chatbot interface designed to handle various text-to-speech (TTS) functionalities and image generation based on user interactions. It uses the F5 TTS engine and can handle responses in multiple emotions. The LLM can be hosted using LM Studio or Ollama and supports current vision LLM models
 
 ## Features
 - **Multi-Agent Support:** Switch between different agents with unique personalities and styles. Note: Using multiple emotions requires the system prompt to be set to return the emotion tag. 
