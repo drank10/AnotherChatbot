@@ -1,5 +1,3 @@
-# AI Chatbot Interface
-
 <img src="AnotherChatbot.jpg">
 
 ## Overview
