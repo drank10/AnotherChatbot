@@ -7,7 +7,7 @@ This is an basic AI chatbot interface designed to handle various text-to-speech 
 - **Multi-Agent Support:** Switch between different agents with unique personalities and styles. Note: Using multiple emotions requires the system prompt to be set to return the emotion tag. 
 - **Text-to-Speech Integration:** Generate audio responses from text using various TTS models.
 - **Speech-to-Text Integration:** Capture audio input using OpenAI Whisper.
-- **Image Generation:** Create visual representations of the chatbot in different styles based on prompt.
+- **Image Generation:** Create visual representations of the chatbot in different styles based on prompt using Stable Diffusion.
 - **User-Friendly Interface:** A graphical user interface (GUI) for easy interaction.
 
 ## Requirements
@@ -40,7 +40,7 @@ This is an basic AI chatbot interface designed to handle various text-to-speech 
 1. **Select an Agent:** Choose or create a new agent from the interface. Agents can either be a single emotion or multiple. Please see F5 TTS documention for more details. 
 2. **Start Chatting:** The agent will enter a listening mode.
 3. **Pause/Unpause:** Use the 'p' key to pause/unpause the conversation.
-4. **Toggle Image Generation:** Use the 'i' key to enable/disable image generation.
+4. **Image Generation:** Download a Stable Diffusion checkpoint and LoRA of your choice. Use the 'i' key to enable/disable image generation. 
 
 ## Customization
 - You can modify the TTS models, system prompts, and other settings through the interface or by editing the source code.
