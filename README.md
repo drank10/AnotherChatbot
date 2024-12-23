@@ -44,7 +44,7 @@ This is an basic AI chatbot interface designed to handle various text-to-speech 
 
 ## Customization
 - You can modify the TTS models, system prompts, and other settings through the interface or by editing the source code.
-- Smaller models of STT (Whisper Tiny), LLM, and inference steps can be used to adjust performance and used VRAM. 
+- Different models of STT (Whisper Tiny), LLM, and inference steps can be used to adjust performance and used VRAM. 
 
 ## Contributing
 
