@@ -1,7 +1,7 @@
 # AI Chatbot Interface
 
 ## Overview
-This is an advanced AI chatbot interface designed to handle various text-to-speech (TTS) functionalities and image generation based on user interactions.
+This is an basic AI chatbot interface designed to handle various text-to-speech (TTS) functionalities and image generation based on user interactions.
 
 ## Features
 - **Multi-Agent Support:** Switch between different agents with unique personalities and styles.
