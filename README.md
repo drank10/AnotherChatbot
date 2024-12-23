@@ -39,8 +39,8 @@ The LLM can be hosted using LM Studio or Ollama and supports current vision LLM 
 
 ## Usage
 
-1. **Select an Agent:** Choose or create a new agent from the interface.
-2. **Start Chatting:** Type your message and press enter to get a response.
+1. **Select an Agent:** Choose or create a new agent from the interface. Agents can either be a single emotion or multiple. Please see F5 TTS documention for more details. 
+2. **Start Chatting:** The agent will enter a listening mode.
 3. **Pause/Unpause:** Use the 'p' key to pause/unpause the conversation.
 4. **Toggle Image Generation:** Use the 'i' key to enable/disable image generation.
 
