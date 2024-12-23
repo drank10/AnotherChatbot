@@ -1,0 +1,27 @@
+# F5-TTS | E2-TTS
+model = "F5-TTS"
+ref_audio = "Julia.wav"
+# If an empty "", transcribes the reference audio automatically.
+ref_text = "This is the text in the main Julia default voice wav file"
+gen_text = ""
+# File with text to generate. Ignores the text above.
+#gen_file = "infer/examples/multi/story.txt"
+remove_silence = true
+output_dir = "tests"
+output_file = "infer_cli_story.wav"
+
+[voices.happy]
+ref_audio = "happy.wav"
+ref_text = "This is the text in the happy emotion wav file."
+
+[voices.sad]
+ref_audio = "sad.wav"
+ref_text = "This is the text in the sad emotion wav file."
+
+[voices.angry]
+ref_audio = "angry.wav"
+ref_text = "This is the text in the angry emotion wav file."
+
+[voices.surprised]
+ref_audio = "surprised.wav"
+ref_text = "This is the text in the happy surprised wav file."
