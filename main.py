@@ -100,7 +100,7 @@ class F5TTS:
                 '--gen_text', text,
                 '--output_file', "output.wav",
                 '--output_dir', ".",
-                '--nfe_step', "12",
+                '--nfe_step', "16",
                 '--load_vocoder_from_local',
                 '--config', "Julia.toml"
             ]
