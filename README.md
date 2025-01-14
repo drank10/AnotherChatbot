@@ -22,8 +22,8 @@ This is an basic AI chatbot interface designed to handle various text-to-speech 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/drank10/AIChatbotInterface.git
-   cd AIChatbotInterface
+   git clone https://github.com/drank10/AnotherChatbot.git
+   cd AnotherChatbot
    ```
 
 2. Install dependencies:
