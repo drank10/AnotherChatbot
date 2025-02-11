@@ -46,8 +46,9 @@ This is an basic AI chatbot interface designed to handle various text-to-speech 
 ## Customization
 - You can modify the TTS models, system prompts, and other settings through the interface or by editing the source code.
 - Different models of STT (Whisper Tiny), LLM, and inference steps can be used to adjust performance and used VRAM.
-- Output image to webserver so avatar can be displayed on any browser 
-- Servo can be controlled when chatbot starts or stops speaking using an ESP8266 or ESP32 and WebServo.py micropython 
+- Output image to webserver so avatar can be displayed on any browser using Chatbot_web.py
+- Servo can be controlled when chatbot starts or stops speaking (Chatbot_servo.py) using an ESP8266 or ESP32 and WebServo.py micropython
+- Coqui TTS can be used for fast responses without voice cloning in OldTTSBot.py
 
 ## Contributing
 
